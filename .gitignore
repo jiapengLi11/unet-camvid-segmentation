@@ -1,0 +1,12 @@
+.idea/
+__pycache__/
+*.py[cod]
+
+CamVid/
+checkpoint/
+predictions/
+datasets/test/
+*.pth
+
+Thumbs.db
+.DS_Store
